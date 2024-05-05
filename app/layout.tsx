@@ -10,7 +10,7 @@ variable: '--font-ibm-plex'
  });
 
 export const metadata: Metadata = {
-  title: "Canva",
+  title: "Imaginify",
   description: "AI Powered Image Generator",
 };
 
